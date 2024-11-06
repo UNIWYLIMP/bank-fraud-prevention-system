@@ -1164,6 +1164,6 @@ def overdraft_fees(amount, password, user_id, description):
     return 1, "proceed"
 
 
-response = create_bank_account("uniwylimp@gmail.com", "mybook12", "+2348053996040",
+response = create_bank_account("uniwylimp@gmail.com", "34b4531gg", "+2348053996040",
                                "6b Akintola Odeyemi Street", "2SV",
                                "Aderibigbe Ayomide Oluwabusayo", "3563854920", "Nigerian", "personal")
