@@ -37,7 +37,7 @@ A standalone Python application that leverages advanced security protocols to de
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/bank-fraud-prevention-system.git
+   git clone https://github.com/UNIWYLIMP/bank-fraud-prevention-system.git
    cd bank-fraud-prevention-system
    ```
 
@@ -82,6 +82,8 @@ A standalone Python application that leverages advanced security protocols to de
 
 ## 🤝 Contributing
 
+We are open to suggestions on how to make this software better.
+
 ---
 
 ## 📄 License
@@ -92,7 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## 💬 Support
 
-For questions or issues, open a [GitHub Issue](https://github.com/your-username/bank-fraud-prevention-system/issues) or contact [Support](mailto:uniwylimp@gmail.com).
+For questions or issues, open a [GitHub Issue](https://github.com/UNIWYLIMP/bank-fraud-prevention-system/issues) or contact [Support](mailto:uniwylimp@gmail.com).
 
 ---
 
