@@ -1,7 +1,3 @@
-Here’s an updated GitHub description that includes specific security protocols used by the **Bank Fraud Prevention System** for fraud detection:
-
----
-
 # 🛡️ Bank Fraud Prevention System
 
 A standalone Python application that leverages advanced security protocols to detect and prevent financial crime. This system uses file-based tracking to analyze transactions and identify anomalies, making it ideal for environments without a full database infrastructure. The system supports protocols such as transaction limits, time and location checks, and amount anomaly detection to safeguard financial data.
